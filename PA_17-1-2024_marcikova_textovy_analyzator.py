@@ -1,5 +1,5 @@
 '''
-author = monini-ka
+author = monini-ka (discord: raw.anomaly)
 '''
 
 import string
